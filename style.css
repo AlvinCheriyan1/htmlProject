@@ -100,3 +100,65 @@ li.logo-element{
 .quote{
     background-color: #E5E7EB;
 }
+
+.quote-main-div{
+    display: flex;
+}
+.actual-quote{
+    color: #1F2937;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 100;
+    padding: 100px;
+    width: 800px;
+    padding-left: 300px;
+}
+
+.tag{
+    margin-top: 250px;
+}
+
+.last-section{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+
+}
+
+.last-section-blue{
+    width: 700px;
+    height: 100px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+
+
+}
+
+.call-action{
+    display: flex;
+    color: white;
+    flex-direction: column;
+}
+
+.h4-call-action{
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.ad{
+    margin-top: 0;
+}
+
+.sign-up{
+    margin-left: 100px;
+    padding: 5px;
+    color: white;
+    background-color: #3882F6;
+    border-color: white;
+}
